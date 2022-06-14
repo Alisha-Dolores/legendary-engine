@@ -1,5 +1,5 @@
 # legendary-engine
 an engine
 
-/ change 01 
-/ change 02
+- change 01 
+- change 02
